@@ -20,7 +20,13 @@ LLM for Learning is a standalone product. It is skills-based and outcome-oriente
 
 ## Why will customers want it?
 
-*Coming soon.*
+The way people learn is shifting, the same way search, shopping, the way work is shifting. AI is becoming the first place people turn, and learning is no exception. Millions of people are already using LLMs to pick up new skills, understand complex topics, and grow professionally. That behavior is not coming. It is here.
+
+But the tools they are using were not built for learning. General-purpose AI gives answers instead of building understanding. It follows tangents, loses structure, and cannot be trusted to get it right. People are learning from a tool with no curriculum, no progression, and no way to know whether the learning actually stuck.
+
+Customers will want LLM for Learning because it gives them what they already want, done properly. The ease and flexibility of conversational AI. The personalization of a system that starts where they are and adapts as they grow. The confidence of vetted content designed to actually teach. And the depth that comes from real projects, real feedback, and real evaluation.
+
+It is not a course. It is not a chatbot. It is the learning experience people are already trying to build for themselves, built properly.
 
 ---
 
