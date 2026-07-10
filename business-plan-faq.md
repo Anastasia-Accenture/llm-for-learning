@@ -46,7 +46,9 @@ This is the gap. Millions of people are already turning to AI to learn. They are
 
 ## How does this add value compared to other options that already exist?
 
-*Coming soon.*
+Traditional online courses are structured but rigid. You move at their pace, through their path, with no adaptation to what you already know or how you best learn. Textbooks and documentation give you information but none of the guidance. General-purpose AI is flexible and conversational, but unstructured, unreliable, and not designed to teach.
+
+LLM for Learning is the dream teacher. Patient, knowledgeable, adapts to how you learn, and stays with you until you actually get it. And unlike any human alternative, it has no bad days, no gaps in knowledge, no schedule to work around. Not a better version of what already exists. A different category entirely.
 
 ---
 
