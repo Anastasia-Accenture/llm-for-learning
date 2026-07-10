@@ -26,7 +26,15 @@ LLM for Learning is a standalone product. It is skills-based and outcome-oriente
 
 ## What data do you have to support the above?
 
-*Coming soon.*
+AI-assisted learning is not an emerging trend. It is already the default behavior for a large and growing share of the people Udacity serves.
+
+**People are using AI to learn, at scale.** As of 2026, [49% of U.S. adults use AI chatbots](https://www.pewresearch.org/internet/2026/06/17/americans-and-ai-2026-chatbots-smart-devices-and-views-on-impact/), up from 33% just 18 months earlier (Pew Research, 2024-2026). Globally, [74% of AI users say learning is now their top reason for using AI](https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/), surpassing entertainment and productivity for the first time (Google, 2025). Among university students, [85% use AI for schoolwork and 78% use it specifically to understand complex topics](https://blog.google/products-and-platforms/products/education/our-life-with-ai-2025/), and usage scales with seniority: MSc students use AI 2.3x more than undergraduates.
+
+**Tech professionals are actively engaged in this shift.** Among developers, [84% now use AI tools](https://survey.stackoverflow.co/2025/ai/), up from 44% just two years ago (Stack Overflow, 2023-2025). More than half use AI specifically for learning: [44% to learn to code](https://survey.stackoverflow.co/2025/ai/) in 2025, up from 37% in 2024; [33% to learn new concepts and technologies](https://survey.stackoverflow.co/2025/ai/); and another 21% to understand new codebases. The single most valued benefit, cited by [70.8% of developers learning with AI](https://survey.stackoverflow.co/2024/ai), is speed of learning, above productivity, above time savings (Stack Overflow, 2024). The behavioral signal is even starker: by the end of 2024, [Stack Overflow questions had dropped 40% year-over-year](https://www.similarweb.com/blog/insights/ai-news/stack-overflow-chatgpt/), as developers abandoned the world's largest coding Q&A platform in favor of AI tools.
+
+**But the current experience is failing learners.** Despite near-universal adoption, [only 29% of developers trust AI output to be accurate](https://survey.stackoverflow.co/2025/ai/) in 2025, down from 43% in 2024 and 40% in 2023, falling every year even as adoption rises (Stack Overflow). [79% worry about AI circulating misinformation, and 65% say they won't trust an answer unless it comes with a source](https://survey.stackoverflow.co/2024/ai) (Stack Overflow, 2024). And the deeper problem is not accuracy. A [2025 systematic review of 29 studies on AI use in programming education](https://arxiv.org/html/2510.03884v1) found that the single most widespread concern, present in 65% of all studies, was shallow learning: students and professionals getting answers from AI without building real understanding. They complete the task. They do not gain the skill. The same research found that purpose-built AI tutors, ones with defined curriculum, guided questioning, and built-in assessment, do not have this problem. Structure is what turns AI from an answer machine into a learning tool.
+
+This is the gap. Millions of people are already turning to AI to learn. They are not being well served by it. That is the market LLM for Learning is built for.
 
 ---
 
