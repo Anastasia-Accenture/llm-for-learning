@@ -54,7 +54,11 @@ LLM for Learning is the dream teacher. Patient, knowledgeable, adapts to how you
 
 ## What business model do you recommend to support this?
 
-*Coming soon.*
+The core model is a subscription. Learners pay a recurring fee for access, with tiered pricing that reflects depth of use: a free entry tier to drive adoption, and paid tiers that unlock premium features. This is a familiar model for this audience, already proven by tools like ChatGPT Plus, GitHub Copilot, and Duolingo.
+
+Additionally, the product can be distributed through tools people already use, for an additional revenue stream executed through mechanisms like a revenue share partnership, where Udacity appears as a featured learning integration inside platforms like ChatGPT or Claude, or an API licensing model, where other platforms pay to embed the LLM for Learning experience directly into their product.
+
+While this proposal is focused on B2C, the same product naturally extends to enterprise, LearnVantage and ACN internally. LLM for Learning can be customized for specific industries, roles, and client needs, making it a strong fit for organizational upskilling at scale.
 
 ---
 
