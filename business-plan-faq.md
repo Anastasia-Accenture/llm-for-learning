@@ -64,7 +64,15 @@ While this proposal is focused on B2C, the same product naturally extends to ent
 
 ## What are the risks with this? Why won't it work?
 
-*Coming soon.*
+**Getting the balance right is hard.** Structured enough to prevent rabbit holes, flexible enough not to feel like a course, guiding without just giving answers. That balance is a genuine product design challenge, and getting it wrong in either direction undermines the core value proposition.
+
+**Accuracy cannot slip.** In a general chatbot, a wrong answer is an inconvenience. In a learning product built on the promise of trusted content, it is a credibility problem. Maintaining accuracy as the field evolves requires continuous investment.
+
+**The big platforms could do this.** OpenAI, Google, and Anthropic have the technology and the distribution. Udacity's advantage is brand, curriculum credibility, and trust, but that advantage has to be built and maintained. The moat has to be earned continuously.
+
+**Not moving is the real market risk.** What is differentiated today may be expected by everyone in 12 months. The risk is not that this becomes table stakes. The risk is not being there when it does.
+
+**Re-engagement is unsolved.** Without a traditional course release cycle, there is no natural reason for a learner to return once they feel they have learned what they came for. Finding ways to surface new learning needs and pull learners back has to be designed in from the start.
 
 ---
 
