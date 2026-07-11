@@ -64,7 +64,7 @@ While this proposal is focused on B2C, the same product naturally extends to ent
 
 ## What are the risks with this? Why won't it work?
 
-**Getting the balance right is hard.** Structured enough to prevent rabbit holes, flexible enough not to feel like a course, guiding without just giving answers. That balance is a genuine product design challenge, and getting it wrong in either direction undermines the core value proposition.
+**Getting the balance wrong.** Structured enough to prevent rabbit holes, flexible enough not to feel like a course, guiding without just giving answers. That balance is a genuine product design challenge, and getting it wrong in either direction undermines the core value proposition.
 
 **Accuracy cannot slip.** In a general chatbot, a wrong answer is an inconvenience. In a learning product built on the promise of trusted content, it is a credibility problem. Maintaining accuracy as the field evolves requires continuous investment.
 
@@ -72,7 +72,7 @@ While this proposal is focused on B2C, the same product naturally extends to ent
 
 **Not moving is the real market risk.** What is differentiated today may be expected by everyone in 12 months. The risk is not that this becomes table stakes. The risk is not being there when it does.
 
-**Re-engagement is unsolved.** Without a traditional course release cycle, there is no natural reason for a learner to return once they feel they have learned what they came for. Finding ways to surface new learning needs and pull learners back has to be designed in from the start.
+**Re-engagement is existential.** Without a traditional course release cycle, there is no natural reason for a learner to return once they feel they have learned what they came for. Finding ways to surface new learning needs and pull learners back has to be designed in from the start.
 
 ---
 
