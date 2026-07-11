@@ -80,6 +80,8 @@ While this proposal is focused on B2C, the same product naturally extends to ent
 
 As a starting point for a market validation framework, before committing to a full build, three early signals can establish whether real demand exists.
 
+
+
 Udacity's AI assistant, Marvin, already operates within the learning platform. A structured analysis of how learners engage with it today provides an immediate and proprietary baseline: what people ask, how deeply they engage, and where conversational AI already substitutes for structured learning.
 
 Primary research, through surveys and qualitative interviews with existing Udacity learners and external tech professionals, will establish willingness to pay and barriers to adoption.
