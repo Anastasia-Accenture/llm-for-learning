@@ -78,4 +78,10 @@ While this proposal is focused on B2C, the same product naturally extends to ent
 
 ## How will we validate product market fit?
 
-*Coming soon.*
+Before committing to a full build, three early signals can establish whether real demand exists.
+
+Udacity's AI assistant, Marvin, already operates within the learning platform. A structured analysis of how learners engage with it today provides an immediate and proprietary baseline: what people ask, how deeply they engage, and where conversational AI already substitutes for structured learning.
+
+Primary research, through surveys and qualitative interviews with existing Udacity learners and external tech professionals, will establish willingness to pay and the specific unmet needs this product is positioned to address.
+
+Finally, a single nanodegree brought to market in the LLM-driven format will provide the most direct demand signal available. If learners find it, buy it, and return for more, that is sufficient evidence to move to prototyping and a structured MVP program.
